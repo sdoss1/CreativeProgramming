@@ -1,24 +1,26 @@
-# CreativeProgramming
- this is my awesome repo google.com
- this is *italic* and this is *bold*
+_**Mask Project**_
+ 
+This mask is a collage that presents a cross culture of the Batok tattoos of the Kalinga culture in the Philippines and corresponding tattoos that are significant and meaningful to me
 
-my main ideas in this project are
-1 idea
-2 idea
-3 idea
+Main Ideas:
+Batok tattoos are a part of my family's culture and I am passionate about spreading it
 
-another list
-1 thing
-2 thing
+I have been learning how to do tattoos recently for fun, I find this branch of art super interesting and exciting
 
-this is some code 'in sentence'
+The ideal tattoo I would get is one representative of the year of the snake, the year I was born and something I identify with in some ways. The center of the mask is built upon the Kalinga snake and my personal rendition
 
-'''javascript
+The mask is comprised of tattoos mapped out on the face
+The face is divided into 4 areas: left cheek, right cheek, chin and forehead
+The masks Kalinga and my tattoos mirror each other vertically
 
-let a = 0;
-let b = 3.14;
-'''
+Here's some code of the mapping and projection of each tattoo on the face:
 
-double space to note line break 
+  let midwayBetweenEyes = scalePoint(face.annotations.midwayBetweenEyes[0]);
+    image(snake2, midwayBetweenEyes.x-10, midwayBetweenEyes.y, 20,70)
+    
+  image(tribalsnake, midwayBetweenEyes.x-10, midwayBetweenEyes.y-80, 10,90)
+
+
+  
 
 my awesome image of my mask (path/to/image.png)
