@@ -23,4 +23,4 @@ Here's some code of the mapping and projection of each tattoo on the face:
 
   
 
-my awesome image of my mask (path/to/image.png)
+![IMG_3084](https://user-images.githubusercontent.com/101241016/159584236-ee8e0f12-b6e3-4a7e-8e4c-5b15bba84728.jpeg)
